@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "e352fb3f-9119-4647-b6ce-e91648af0ee7",
+            "Value": {
+                "id": "0a070569-cf5d-4b10-a624-1abd05af78d1",
+                "resourcePath": "sprites\\spr_duck\\spr_duck.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "233b73a9-b9f9-4b24-b9ee-a665d7638833",
