@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "7a86a075-3fd0-43b8-8060-51e529451673",
+            "Value": {
+                "id": "85f064d5-ca07-4b4d-99af-32dff6beefff",
+                "resourcePath": "datafiles_yy\\barrel.d3d.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "8d2d77c1-fa6a-4fe8-924e-59cc92dba712",
             "Value": {
                 "id": "2cbbf617-6323-42f1-aaee-49e741bc75ca",

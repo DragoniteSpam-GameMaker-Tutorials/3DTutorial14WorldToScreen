@@ -52,4 +52,6 @@ merry = vertex_create_buffer_from_buffer(merry_data, vertex_format);
 buffer_delete(merry_data);
 show_debug_message("Loading the Merry took " + string((get_timer() - t) / 1000) + " milliseconds");
 
+barrel = load_model("barrel.d3d");
+
 instance_create_depth(0, 0, 0, Player);

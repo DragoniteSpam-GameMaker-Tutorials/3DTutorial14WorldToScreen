@@ -26,3 +26,7 @@ vertex_submit(vbuffer, pr_trianglelist, sprite_get_texture(spr_grass, 0));
 matrix_set(matrix_world, matrix_build(500, 500, 50, 0, 0, 0, 2, 2, 2));
 vertex_submit(merry, pr_trianglelist, -1);
 matrix_set(matrix_world, matrix_build_identity());
+
+matrix_set(matrix_world, matrix_build(100, 0, 0, 0, 0, 0, 1, 1, 1));
+vertex_submit(barrel, pr_trianglelist, -1);
+matrix_set(matrix_world, matrix_build_identity());
