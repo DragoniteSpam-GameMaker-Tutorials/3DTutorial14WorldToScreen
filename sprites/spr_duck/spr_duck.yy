@@ -1,5 +1,5 @@
 {
-    "id": "e352fb3f-9119-4647-b6ce-e91648af0ee7",
+    "id": "a07a9c93-4731-41fb-b592-1bc1731d9cc3",
     "modelName": "GMSprite",
     "mvc": "1.12",
     "name": "spr_duck",
@@ -16,24 +16,24 @@
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "5cd9ca46-fea8-4267-beba-b6acc637c9df",
+            "id": "d6786b03-970a-466c-9845-61153ab0aa74",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
-            "SpriteId": "e352fb3f-9119-4647-b6ce-e91648af0ee7",
+            "SpriteId": "a07a9c93-4731-41fb-b592-1bc1731d9cc3",
             "compositeImage": {
-                "id": "5e2a70d6-65fa-47e5-8555-874948f3d975",
+                "id": "80e7ff78-65ba-4bcb-b9a8-aaa53c9e6f87",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "5cd9ca46-fea8-4267-beba-b6acc637c9df",
+                "FrameId": "d6786b03-970a-466c-9845-61153ab0aa74",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "a81fe554-30b0-41ac-a94f-90074d46b445",
+                    "id": "a39a5ab3-27f3-4196-a646-54c0eb10227a",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "5cd9ca46-fea8-4267-beba-b6acc637c9df",
-                    "LayerId": "b854ccc9-59a0-4b4c-a816-95536ef88c43"
+                    "FrameId": "d6786b03-970a-466c-9845-61153ab0aa74",
+                    "LayerId": "842365a1-4ef8-4d58-b988-68ed36e0ef6b"
                 }
             ]
         }
@@ -43,10 +43,10 @@
     "height": 80,
     "layers": [
         {
-            "id": "b854ccc9-59a0-4b4c-a816-95536ef88c43",
+            "id": "842365a1-4ef8-4d58-b988-68ed36e0ef6b",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
-            "SpriteId": "e352fb3f-9119-4647-b6ce-e91648af0ee7",
+            "SpriteId": "a07a9c93-4731-41fb-b592-1bc1731d9cc3",
             "blendMode": 0,
             "isLocked": false,
             "name": "default",
@@ -55,7 +55,7 @@
         }
     ],
     "origin": 4,
-    "originLocked": true,
+    "originLocked": false,
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
     "premultiplyAlpha": false,

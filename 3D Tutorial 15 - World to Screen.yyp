@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "a07a9c93-4731-41fb-b592-1bc1731d9cc3",
+            "Value": {
+                "id": "6923fef1-de4a-415b-9b7a-fd23f38f7eb7",
+                "resourcePath": "sprites\\spr_duck\\spr_duck.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "5c834d2a-1ac9-40a3-8c12-cc77d547d2a8",
@@ -255,19 +263,19 @@
             }
         },
         {
-            "Key": "e352fb3f-9119-4647-b6ce-e91648af0ee7",
-            "Value": {
-                "id": "0a070569-cf5d-4b10-a624-1abd05af78d1",
-                "resourcePath": "sprites\\spr_duck\\spr_duck.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "233b73a9-b9f9-4b24-b9ee-a665d7638833",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "fa302281-e354-4725-9d50-45552a2bc23e",
+            "Value": {
+                "id": "7617a841-6dfa-42e3-8289-ca88c04d0a9e",
+                "resourcePath": "scripts\\world_to_screen\\world_to_screen.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -282,7 +290,8 @@
     "script_order": [
         "3bffe29d-a3c0-48f2-a5ca-0d78edff73ea",
         "d0e0e846-af16-4ff8-b3ab-7fc2c4f3cc5a",
-        "b8b39fa6-1073-4e1e-bd93-996cf0dba11d"
+        "b8b39fa6-1073-4e1e-bd93-996cf0dba11d",
+        "fa302281-e354-4725-9d50-45552a2bc23e"
     ],
     "tutorial": ""
 }

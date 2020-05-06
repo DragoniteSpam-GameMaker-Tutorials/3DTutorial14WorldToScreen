@@ -55,3 +55,6 @@ show_debug_message("Loading the Merry took " + string((get_timer() - t) / 1000) 
 barrel = load_model("barrel.d3d");
 
 instance_create_depth(0, 0, 0, Player);
+
+view_mat = undefined;
+proj_mat = undefined;
